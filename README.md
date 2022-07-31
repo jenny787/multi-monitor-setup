@@ -17,3 +17,5 @@ There are many complicated problems you will run into when trying to get multipl
 ## BIOS settings
 
 ## "What if... ?"
+
+## Glossary of all the freaking terminology and specifications
