@@ -10,3 +10,10 @@ There are many complicated problems you will run into when trying to get multipl
   - Adapters
   - Monitors and Televisions
   
+## Software
+ - Your GPU's driver software (Nvidia or AMD most likely)
+ - (optional) multi-monitor tools like DisplayFusion or Actual Tools
+ 
+## BIOS settings
+
+## "What if... ?"
