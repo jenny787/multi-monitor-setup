@@ -18,4 +18,9 @@ There are many complicated problems you will run into when trying to get multipl
 
 ## "What if... ?"
 
+## Tips & Tricks
+This is a very clever solution for those that have Dell monitors.  I tried it and it works very nicely.
+https://www.dell.com/community/Monitors/U2518D-turn-off-without-using-button/td-p/7526668
+If you have a Dell monitor, you can switch the input using a command line.  So you can make a bat file and do automation very easily.  It doesn't technically turn the monitor on or off, but you can switch to an unused output port to have it go to sleep, and switch it back to your pc port to turn on.  It works very well.  What does this solve?  Since the monitor never turns off, it is always connected to the pc, so there is no problem with the windows rearranging.  This also removes the need for those MDK adapters I normally use for all monitors.  The MDK adapters do not work with active (fiber optic) HDMI cables (they have not responded to my inquiries, they insist it works with any hdmi situation).
+
 ## Glossary of all the freaking terminology and specifications
