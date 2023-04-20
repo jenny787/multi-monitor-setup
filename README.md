@@ -13,7 +13,11 @@ There are many complicated problems you will run into when trying to get multipl
 ## Software
  - Your GPU's driver software (Nvidia or AMD most likely)
  - (optional) multi-monitor tools like DisplayFusion or Actual Tools
- 
+
+## Adapters
+https://monitordetectkiller.com/
+This adapter is basically the only real solution to the windows moving around problem when monitors are turned on/off.  This device works fine for all my monitors except the one connected by a long fiber optic active HDMI cable.  It didn't work on that one.  I emailed the company but they did not respond.  Technically, there's no reason why it shouldn't work with the way the adapter is made (it just has a pin blocked, nothing else).  
+
 ## BIOS settings
 
 ## "What if... ?"
